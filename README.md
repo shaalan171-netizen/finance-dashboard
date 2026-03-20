@@ -2,6 +2,7 @@
 
 AI-powered personal finance dashboard — upload bank statements, 
 get spending insights and anomaly detection. React + FastAPI + OpenAI.
+Complete front end
 
 ## Tech Stack
 - Frontend: React, Recharts
